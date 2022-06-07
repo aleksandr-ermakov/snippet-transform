@@ -4,3 +4,4 @@ bdd-log.xml
 exec.log
 ignore/**
 tests.xml
+.vscode/launch.json
